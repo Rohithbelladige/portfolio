@@ -1,0 +1,60 @@
+.my-photo {
+    border: 6px solid #e6adb1;
+    width: 250px;
+    height: 290px;
+  }
+  .my-name {
+    font-weight: bold;
+    color: #0e78f1;
+  }
+  .name {
+    width: 600px;
+    margin-left: 40px;
+  }
+  .details-container {
+    display: flex;
+    margin-bottom: 10px;
+  
+    align-items: center;
+  }
+  .contact {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 3px solid skyblue;
+    padding: 12px;
+  }
+  .bottom-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .list-container {
+    display: flex;
+    align-self: space-evenly;
+    margin-top: 0px;
+    width: 550px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .items {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    margin-bottom: 0px;
+    justify-content: center;
+  }
+  .skills-container {
+    border: 3px solid skyblue;
+    width: 420px;
+    margin-right: 12px;
+    padding: 12px;
+  }
+  .skill-heading {
+    font-weight: bold;
+  }
+  
+  .contact-text {
+    margin-bottom: 0px;
+  }
+  
